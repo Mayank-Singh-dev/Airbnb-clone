@@ -11,5 +11,6 @@ module.exports={
   },
   env:{
     mapbox_key:'pk.eyJ1IjoibWF5YW5rMDkwOCIsImEiOiJjbGc0MTczMDkwMTl5M2VueWZrMDkybm9lIn0.U8ZKBcEGz_hHZB_GKsjBsA'
+    // This api key has been revoked
   }
 }

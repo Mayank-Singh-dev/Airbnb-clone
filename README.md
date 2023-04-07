@@ -5,9 +5,11 @@ This is a clone of Airbnb built using Next.js, Tailwind CSS, Node.js, React and 
 ## Screenshots
 
 ### Home
+
 ![Home Page](https://user-images.githubusercontent.com/114851381/230630665-9081debe-81c9-4c0e-ac22-3ff9134ade73.png)
 
 ### Search page 
+
 ![Search Page](https://user-images.githubusercontent.com/114851381/230630853-4606ec7c-629c-4f22-8606-e8b702df81f7.png)
 
 ### Calender
@@ -45,6 +47,7 @@ To run this project on your local machine, follow these steps:
 ### Usage
 1. Start the development server: `npm run dev`
 2. Open `http://localhost:3000` in your browser.
+3. ![Test](https://airbnb-clone-ebon-six.vercel.app/)
 
 ## Built With
 - Next.js

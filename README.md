@@ -4,9 +4,14 @@ This is a clone of Airbnb built using Next.js, Tailwind CSS, Node.js, React and 
 
 ## Screenshots
 
+### Home
 ![Home Page](https://user-images.githubusercontent.com/114851381/230630665-9081debe-81c9-4c0e-ac22-3ff9134ade73.png)
+
+### Search page 
 ![Search Page](https://user-images.githubusercontent.com/114851381/230630853-4606ec7c-629c-4f22-8606-e8b702df81f7.png)
-![Listing Page](https://user-images.githubusercontent.com/114851381/230631319-9090b4ef-a9e2-4b42-9015-0444633d06e0.png)
+
+### Calender
+
 ![Calendar Modal](https://user-images.githubusercontent.com/114851381/230631448-6ef8c654-ee3e-4058-9f1d-b9a6f93d14a7.png)
 
 
@@ -49,4 +54,4 @@ To run this project on your local machine, follow these steps:
 - Mapbox
 
 ## Authors
-- Your Name - [Mayank](https://github.com/Mayank-Singh-dev/Airbnb-clone.git)
+- Mayank - [Mayank](https://github.com/Mayank-Singh-dev/Airbnb-clone.git)

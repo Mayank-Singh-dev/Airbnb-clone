@@ -47,7 +47,7 @@ To run this project on your local machine, follow these steps:
 ### Usage
 1. Start the development server: `npm run dev`
 2. Open `http://localhost:3000` in your browser.
-3. ![Test](https://airbnb-clone-ebon-six.vercel.app/)
+3. [Test](https://airbnb-clone-ebon-six.vercel.app/)
 
 ## Built With
 - Next.js
